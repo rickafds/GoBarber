@@ -24,6 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://rickafds.github.io/GoBarber/",
   "browserslist": {
     "production": [
       ">0.2%",
